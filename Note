@@ -1,3 +1,6 @@
 Monolithic : 
 
 Micro Services : collections of multiple Services
+
+
+morgan logger: to check how much takes each route
